@@ -1,0 +1,6 @@
+{
+  "name": "arachnys-slider",
+  "description": "Pip slider with jquery ui",
+  "version": "0.0.1",
+  "main": "arachnys-slider.js",
+}
